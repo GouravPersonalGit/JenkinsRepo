@@ -1,0 +1,12 @@
+{
+	"environment": {
+		"browser": "chrome",
+		"BaseUrl": "https://google.com/",
+	},
+	
+	"SendEmailCredentials":
+	{
+	"EmailSubject":"Automation Execution Report-",
+	"ReportPath":".\\test-output\\Execution reports\\ExtentPdf.pdf"
+	}
+}
